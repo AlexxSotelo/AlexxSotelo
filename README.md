@@ -9,6 +9,7 @@
 <div align="center">
 
 You discovered my Github profile. <br>
+Hi, I'm Alexander, a 22-year-old data analyst with strong skills in Python programming and expertise in using libraries like pandas, matplotlib, and Seaborn for data manipulation and visualization. I also have solid experience working with databases, including MySQL, PostgreSQL, and Excel. I'm passionate about turning data into actionable insights and am eager to bring my analytical skills to new challenges. Let's connect! <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/AlexxSotelo"><b>here</b></a><br>
 or <a href="mailto:alexxsotelop@gmail.com"><b>email</b></a> me
@@ -19,14 +20,16 @@ or <a href="mailto:alexxsotelop@gmail.com"><b>email</b></a> me
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexxSotelo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexxSotelo&show_icons=true&theme=neon)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexxSotelo&layout=compact)
 
 </br>
 </br>
+
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
-<h2>Skills</h2>
+<h2>Skills :star: </h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,py,mysql,postgres,html,css" />
