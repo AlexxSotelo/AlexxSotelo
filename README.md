@@ -35,7 +35,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
-<h2>Skills :star: </h2>
+<h2>Languajes and Tools :star: </h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,py,mysql,postgres,html,css,js,pycharm,vscode" />
