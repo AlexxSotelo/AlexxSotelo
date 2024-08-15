@@ -27,9 +27,11 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
 </div>
 
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats</b>
+
+<br>
 <div align="center">
-<h2>My stats :star2: </h2>
-  
 <img alt="my stats" width="52%" src="https://github-readme-stats.vercel.app/api?username=AlexxSotelo&show_icons=true&theme=neon"/>
 <img alt="my stats" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexxSotelo&theme=neon&layout=compact"/>
 
@@ -37,13 +39,13 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <br>
 <br>
 
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<i>Random dev joke for you! </i><br>
 <br>
 <a href="https://readme-jokes.vercel.app">
-  <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23000000&textColor=%23FF1493" alt="README Jokes">
+  <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23000000&borderColor=%23FFFFFF&qColor=%23FF1493&aColor=%2300FFFF&textColor=%23FF1493" alt="README Jokes">
 </a>
 
-<h2>Languages and Tools :star: </h2>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,py,mysql,postgres,html,css,js,pycharm,vscode" />
