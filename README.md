@@ -58,6 +58,6 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <a href="https://www.instagram.com/alexx_sotelop/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://m.facebook.com/profile.php?id=100094510758693&name=xhp_nt_" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://open.spotify.com/user/31bo7kgtzlzvw3goqlewirfeixl4?si=Shbc1V9lT7awMRGfz89PEg" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://discord.com/invite/V7EqfkJx" target="_blank"><img width="8%" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.com/invite/V7EqfkJx" target="_blank"><img width="9%" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 </div>
